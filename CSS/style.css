@@ -39,10 +39,17 @@ h1 {
     font-size: 5.653rem;
     margin-top: 5rem;
     padding-bottom: 0;
+    font-family: roboto-mono, monospace;
 }
 
 h2 {
     font-size: 1.999rem;
+    margin: 1rem 0 3rem 0;
+    font-family: cormorant-garamond, serif;
+}
+
+h3 {
+    font-size: 1.888rem;
     margin: 1rem 0 3rem 0;
 }
 
@@ -74,13 +81,13 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: rgb(187, 181, 176);
+    background-color: rgb(191, 86, 0);
     padding: 1.5rem 0;
     font-size: 0.75rem;
 }
 
 nav ul {
-    text-align: center;
+    text-align: left;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
