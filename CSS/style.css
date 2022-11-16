@@ -104,8 +104,8 @@ nav ul {
 }
 
 nav ul {
-    display: linear;
-    margin: 20px;
+    display: inline;
+    margin: 30px;
     background: none;
 }
 
