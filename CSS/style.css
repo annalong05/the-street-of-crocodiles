@@ -53,3 +53,50 @@ blockquote {
     hanging-punctuation: first;
     text-indent: 0.7rem;
 }
+
+/*-- styling links --*/
+
+a {
+    color: rgb(66, 33, 9);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(108, 54, 15);
+    border-bottom: 1px dotted;
+}
+
+/*-- navigation --*/
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: rgb(187, 181, 176);
+    padding: 1.5rem 0;
+    font-size: 0.75rem;
+}
+
+nav ul {
+    display: inline;
+    margin: 20px;
+    background: none;
+}
+
+nav a {color: #ffffff;}
+
+nav a:hover {
+    border-bottom: none;
+    color:rgb(108, 54, 15);
+    transition: all 0.3s ease-in-out;
+}
+
+/*-- styling the footer --*/
+
+footer {
+    text-align: center;
+    font-size: 0.8rem;
+    padding-bottom: 6rem;
+}
