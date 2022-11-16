@@ -80,6 +80,12 @@ nav {
 }
 
 nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+nav ul {
     display: inline;
     margin: 20px;
     background: none;
