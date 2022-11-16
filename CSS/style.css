@@ -1,4 +1,4 @@
-/*-- CSS Reset --*
+/*-- CSS Reset --*/
 * {
     padding: 0;
     margin: 0;
@@ -6,4 +6,50 @@
     font-weight: normal;
     line-height: 1em;
 }
-    
+
+/*-- start main styling --*/
+
+body {
+    background: #f7f7f7;
+    color: #333333;
+    font-family: lato, sans-serif;
+}
+
+section, header, footer {
+    width: 80%;
+    max-width: 700px;
+    margin: auto;
+}
+
+section {
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+}
+
+p, blockquote {
+    padding: 0.5rem;
+    line-height: 1.3;
+}
+
+h1, h2 {
+    color: rgb(66, 33, 9);
+}
+
+h1 { 
+    font-size: 5.653rem;
+    margin-top: 5rem;
+    padding-bottom: 0;
+}
+
+h2 {
+    font-size: 1.999rem;
+    margin: 1rem 0 3rem 0;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 1.555rem;
+    color: rgb(108, 54, 15);
+    hanging-punctuation: first;
+    text-indent: 0.7rem;
+}
