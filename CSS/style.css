@@ -44,7 +44,7 @@ h1 {
 }
 
 h2 {
-    font-size: 2.2rem;
+    font-size: 2.4rem;
     margin: 1rem 0 3rem 0;
     font-family: cormorant-garamond,serif;
     font-weight: 700;
@@ -52,10 +52,10 @@ h2 {
 }
 
 h3 {
-    font-size: 1.999rem;
+    font-size: 2rem;
     margin: 1rem 0 3rem 0;
-    font-family: roboto,sans-serif;
-    font-weight: 400;
+    font-family: roboto-slab,serif;
+    font-weight: 700;
     font-style: normal;
 }
 h4 {
