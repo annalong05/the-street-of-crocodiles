@@ -98,13 +98,13 @@ nav {
 }
 
 nav ul {
-    text-align: left;
+    text-align: right;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 
 nav ul {
-    display: inline;
+    display: linear;
     margin: 20px;
     background: none;
 }
