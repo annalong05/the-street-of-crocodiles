@@ -104,7 +104,7 @@ nav ul {
     letter-spacing: 1px;
 }
 
-nav ul {
+nav ul li {
     display: inline;
     margin: 30px;
     background: none;
