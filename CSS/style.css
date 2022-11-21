@@ -25,6 +25,7 @@ header {
     font-style: normal;
     color: rgb(108, 54, 15);
     text-emphasis: bold;
+    font-weight: bold;
 }
 
 section, footer {
