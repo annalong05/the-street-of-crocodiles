@@ -209,7 +209,8 @@ div.inner {
     column-gap: 20px;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     size: auto;
-    padding-top: 2rem;
+    padding-top: 3rem;
+   
    
 }
 
