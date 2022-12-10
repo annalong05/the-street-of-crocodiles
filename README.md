@@ -4,4 +4,6 @@
 [Version 2] file:///Users/annalong/Documents/GitHub/the-street-of-crocodiles/the-street-of-crocodiles.html#chapter-one 
 file:///Users/annalong/Documents/GitHub/the-street-of-crocodiles/the-street-of-crocodiles.html#chapter-one
 
-[Version 3](file:///Users/annalong/Documents/GitHub/the-street-of-crocodiles/the-street-of-crocodiles-2.html#stryjska-street)
+[Version 3](https://annalong05.github.io/the-street-of-crocodiles/the-street-of-crocodiles-2.html)
+
+file:///Users/annalong/Documents/GitHub/the-street-of-crocodiles/the-street-of-crocodiles-2.html 
